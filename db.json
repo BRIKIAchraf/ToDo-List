@@ -1,27 +1,8 @@
 {
-  "tasks":[
+  "tasks": [
     {
-      "id":"1",
-      "task_name":"task1",
-      "command":"echo 'hello world'",
-      "schedule":"* * * * *"
-    },
-    {  "id":"2",
-      "task_name":"task2",
-      "command":"echo 'hello world'",
-      "schedule":"* * * * *"
-    },
-    {
-      "id":"3",
-      "task_name":"task3",
-      "command":"echo 'hello world'",
-      "schedule":"* * * * *"
-    },
-    {
-      "id":"4",
-      "task_name":"task4",
-      "command":"echo 'hello world'",
-      "schedule":"* * * * *"
+      "id": "OBKL7KL",
+      "task_name": "revison C#"
     }
   ]
 }
